@@ -2,8 +2,9 @@ This is the last case study at Galvanize which lasted for two days. My partner a
 
 Please note that the data are not shareable. In addition, one python file (80 lines of code for incoming live predictions) is not attached due to security reasons. 
 
-Attached Python Code: 
-Presentation: 
+Attached Python Code: [app.py](https://github.com/Arash-shu/Fraud_Detection_Case_Study/blob/master/app.py) and [model.py](https://github.com/Arash-shu/Fraud_Detection_Case_Study/blob/master/model.py)
+
+[Presentation](https://github.com/Arash-shu/Fraud_Detection_Case_Study/blob/master/Fraud_detection.pdf)
 
 
 # Fraud Detection Case Study
