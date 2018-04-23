@@ -1,6 +1,6 @@
 This is the last case study at Galvanize which lasted for two days. All of these works mentioned below were accomplished by the exception of AWS part. After two days, the work was presented for the duration of 10 minutes.
 
-Please note that the data are not shareable and also, one python file (80 lines of code for incoming live predictions) is not attached due to security reasons. 
+Please note that the data are not shareable. In addition, one python file (80 lines of code for incoming live predictions) is not attached due to security reasons. 
 
 # Fraud Detection Case Study
 
