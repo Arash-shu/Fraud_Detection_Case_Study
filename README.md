@@ -2,6 +2,10 @@ This is the last case study at Galvanize which lasted for two days. All of these
 
 Please note that the data are not shareable. In addition, one python file (80 lines of code for incoming live predictions) is not attached due to security reasons. 
 
+Attached Python Code: 
+Presentation: 
+
+
 # Fraud Detection Case Study
 
 For the next two days we will work with the entire end to end pipeline of data science through a case study.  We have touched on aspects of this throughout the course but have not yet put all the pieces together.
